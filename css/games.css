@@ -1,3 +1,15 @@
+.center-iframe {
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.extra-margin-top-and-bottom {
+    margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .black-background {
   position: relative;
   z-index: 1;
@@ -23,9 +35,9 @@ img {
 }
 
 .screens {
-	  display: block;
-  margin-left: auto;
-  margin-right: auto;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 p {
@@ -44,3 +56,17 @@ p {
 	color: white;
 	text-align: center;
 }
+
+.download {
+  font-size: 35px;
+  color: white;
+}
+
+.download * {
+  color: white;
+}
+
+a.download:visited { text-decoration: none; color:white; }
+a.download:hover { text-decoration: none; color:white; }
+a.download:focus { text-decoration: none; color:white; }
+a.download:hover, a:active { text-decoration: none; color:lightgrey }
