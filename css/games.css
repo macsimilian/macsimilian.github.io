@@ -70,3 +70,8 @@ a.download:visited { text-decoration: none; color:white; }
 a.download:hover { text-decoration: none; color:white; }
 a.download:focus { text-decoration: none; color:white; }
 a.download:hover, a:active { text-decoration: none; color:lightgrey }
+
+a.text-link:visited { text-decoration: none; color:white !important; }
+a.text-link:hover { text-decoration: none; color:white !important; }
+a.text-link:focus { text-decoration: none; color:white !important; }
+a.text-link:hover, a:active { text-decoration: none; color:lightgrey !important }
