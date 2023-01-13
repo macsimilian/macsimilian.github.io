@@ -5,6 +5,18 @@ hr {
   height: 10px;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
+.date {
+  font-size: 40px;
+}
+
+p {
+  font-size: 30px;
+}
+
 .separator {
   color: white !important;
   width: 80% !important;
